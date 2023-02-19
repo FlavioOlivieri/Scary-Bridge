@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1558261178 source:f:\scuola\terzo anno\informatica\scary_bridge\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<stdlib.h>
+	<fstream>
+
+1558011672 source:d:\scuola\terzo anno\informatica\scary_bridge\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<stdlib.h>
+
+1558263282 source:c:\users\flavio olivieri\desktop\scuola\scary_bridge\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<stdlib.h>
+	<fstream>
+
